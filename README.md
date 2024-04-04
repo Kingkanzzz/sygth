@@ -1,6 +1,6 @@
 # sygth
 
-A new Flutter project.
+For User
 
 ## Getting Started
 
